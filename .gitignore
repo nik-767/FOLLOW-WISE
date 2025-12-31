@@ -1,0 +1,11 @@
+# Security (NEVER UPLOAD THESE)
+.env
+venv/
+node_modules/
+__pycache__/
+*.pyc
+*.db
+*.log
+.DS_Store
+dist/
+build/
